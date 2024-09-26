@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vrushank Bhosale</h1>
 <h3 align="center">A Passionate Back-end Developer & Data Engineer from India</h3>
 
+
 ---
 
 <p align="center">
@@ -44,6 +45,12 @@
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> 
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
   </a>
   <a href="https://www.docker.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 

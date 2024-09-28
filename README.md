@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vrushank Bhosale</h1>
 <h3 align="center">A Passionate Back-end Developer & Data Engineer from India</h3>
 
-
 ---
 
 <p align="center">
@@ -73,6 +72,15 @@
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
+  </a>
 </p>
 
 ---
@@ -101,4 +109,3 @@
 </p>
 
 ---
-
